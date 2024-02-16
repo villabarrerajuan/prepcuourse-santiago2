@@ -1,2 +1,1 @@
-# prepcuourse-santiago2
-repositorio de prueba de PrepCourse de santiago modulo 2 . 2
+este proyecto es una preuba de como crear un repositorio y clonarlo desde github a mi escritorio local
